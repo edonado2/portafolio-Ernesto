@@ -15,27 +15,27 @@ export const Projects = () => {
   const projects = [
     {
 
-      description: "Design & Development",
+      description: "App for managing taxes for Car Owners",
       imgUrl: projImg1,
     },
     {
-      description: "Design & Development",
+      description: "App for Helping People with Gender Violence",
       imgUrl: projImg2,
     },
     {
-      description: "Design & Development",
+      description: "Pokedex App",
       imgUrl: projImg3,
     },
     {
-      description: "Design & Development",
+      description: "Many Static Web Pages",
       imgUrl: projImg4,
     },
     {
-      description: "Design & Development",
+      description: "Social Media App in Django",
       imgUrl: projImg5,
     },
     {
-      description: "Design & Development",
+      description: "Crud App in C#",
       imgUrl: projImg6,
     },
   ];

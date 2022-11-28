@@ -72,6 +72,7 @@ img {
 button {
   border: 0;
   background-color: transparent;
+
 }
 
 input:focus,
@@ -136,6 +137,7 @@ span.navbar-text {
 .social-icon {
   display: inline-block;
   margin-left: 14px;
+  margin: 20px 20px 20px;
 }
 
 .social-icon a {
