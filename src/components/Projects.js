@@ -15,11 +15,11 @@ export const Projects = () => {
   const projects = [
     {
 
-      description: "App for managing taxes for Car Owners",
+      description: "CRUD App to manage Car Owners taxes",
       imgUrl: projImg1,
     },
     {
-      description: "App for Helping People with Gender Violence",
+      description: "App to Help People to Prevent Gender Violence",
       imgUrl: projImg2,
     },
     {
@@ -27,7 +27,7 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      description: "Many Static Web Pages",
+      description: "Numerous Static Web Pages",
       imgUrl: projImg4,
     },
     {
@@ -51,7 +51,7 @@ export const Projects = () => {
                   <h2>Proyectos</h2>
                   <p>Te mostraré algunos de mis grandes proyectos</p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
-                    <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
+                    <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab" >
                       <Nav.Item>
                         <Nav.Link eventKey="first">2022</Nav.Link>
                       </Nav.Item>
