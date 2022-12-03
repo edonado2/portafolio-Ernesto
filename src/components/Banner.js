@@ -47,6 +47,8 @@ export const Banner = () => {
     }
   }
 
+
+
   return (
     <section className="banner" id="home">
       <Container>
@@ -55,11 +57,13 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                  <span className="tagline">Bienvenido a mi Portafolio</span>
-                  <h1>{`Hola! soy Ernesto`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "Team Leder" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Dentro de mis conocimientos generales se destacan diversos lenguaje de programación tales cómo Java, C++, SQL, Python. Adicionalmente poseo conocimientos relacionados con el desarrollo de aplicaciones web progresivas utilizando tecnologías web.
+                  <span className="tagline">Welcome to my Portfolio</span>
+                  <h1>{`Hello! my name is Ernesto I am`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "Team Leder" ]'><span className="wrap">{text}</span></span></h1>
+                  <p>I am a young professional with knowledge in programming languages such as C#, C++, SQL,
+                    Python, Java and progressive web application development using HTML, CCS, and
+                    JavaScript.
                   </p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  <button onClick={() => window.location.href = "mailto:ernestoddonado@gmail.com"}>Feel free to contact me via email <ArrowRightCircle size={25} /></button>
                 </div>}
             </TrackVisibility>
           </Col>

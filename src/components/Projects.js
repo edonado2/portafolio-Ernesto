@@ -48,8 +48,8 @@ export const Projects = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                  <h2>Proyectos</h2>
-                  <p>Te mostraré algunos de mis grandes proyectos</p>
+                  <h2>Projects</h2>
+                  <p>Take a look at some of my projects</p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab" >
                       <Nav.Item>
