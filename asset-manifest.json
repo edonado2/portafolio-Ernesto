@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.232fc4d6.css",
-    "main.js": "/static/js/main.01521cd5.js",
+    "main.js": "/static/js/main.30505eb5.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/forth project.jpg": "/static/media/forth project.8bb07ca46e72c20b449d.jpg",
     "static/media/12345.jpg": "/static/media/12345.faca6325f9b8a1dcd7ca.jpg",
@@ -32,11 +32,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.232fc4d6.css.map": "/static/css/main.232fc4d6.css.map",
-    "main.01521cd5.js.map": "/static/js/main.01521cd5.js.map",
+    "main.30505eb5.js.map": "/static/js/main.30505eb5.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.232fc4d6.css",
-    "static/js/main.01521cd5.js"
+    "static/js/main.30505eb5.js"
   ]
 }
