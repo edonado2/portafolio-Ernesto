@@ -17,14 +17,18 @@ export const Projects = () => {
 
       description: "CRUD App to manage Car Owners taxes",
       imgUrl: projImg1,
+      url: "www.google.com"
+
     },
     {
       description: "App to Help People to Prevent Gender Violence",
       imgUrl: projImg2,
+
     },
     {
       description: "Pokedex App",
       imgUrl: projImg3,
+
     },
     {
       description: "Numerous Static Web Pages",
